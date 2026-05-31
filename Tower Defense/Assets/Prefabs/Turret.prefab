@@ -386,5 +386,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   <AoE>k__BackingField: {fileID: 832364339185906624}
   <ProjectilePrefab>k__BackingField: {fileID: 3738116331824173330, guid: 16ae51bd0b6f14ae8b0d0508b058769c, type: 3}
-  <CooldownTime>k__BackingField: 3
+  <CooldownTime>k__BackingField: 2
   <IsCoolingDown>k__BackingField: 0
